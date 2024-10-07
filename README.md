@@ -10,7 +10,7 @@ This application allows users to generate a concise summary of any YouTube video
 
 ## Demo
 
-You can try the live demo [here](https://example.com) (replace with the actual link to the deployed app).
+You can try the live demo [here](https://youtube-summarizer-llm.streamlit.app/)
 
 ## Requirements
 
@@ -27,7 +27,7 @@ Before running the application, ensure you have the following dependencies insta
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/youtube-transcript-summarizer.git
+   git clone https://github.com/SKAT-16/youtube-summarizer-llm.git
    cd youtube-transcript-summarizer
    ```
 
